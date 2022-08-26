@@ -1,0 +1,51 @@
+{
+  "name": "mongoose-productive-paginator",
+  "version": "0.0.1",
+  "description": "A custom cursor-based pagination library for Mongoose with custom labels and the ability to hammer the aggregation pipeline into component parts for maximum performance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pr0n1x2/mongoose-productive-paginator.git"
+  },
+  "keywords": [
+    "aggregate",
+    "aggregate-paginate",
+    "aggregate-pagination",
+    "mongoose-aggregate",
+    "mongoose",
+    "pagination",
+    "plugin",
+    "mongodb",
+    "paginate",
+    "paging",
+    "next",
+    "prev",
+    "nextpage",
+    "prevpage",
+    "total",
+    "paginator",
+    "plugin",
+    "nestjs",
+    "nestjs-paginate",
+    "nestjs-aggregate"
+  ],
+  "author": "Vladimir Skirga <vladimir.skirga84@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pr0n1x2/mongoose-productive-paginator/issues"
+  },
+  "homepage": "https://github.com/pr0n1x2/mongoose-productive-paginator#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "mongoose": "^6.5.3"
+  },
+  "engines": {
+    "node": ">=8.1.0"
+  }
+}
