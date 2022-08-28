@@ -1,6 +1,6 @@
 {
   "name": "mongoose-productive-paginator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A custom cursor-based pagination library for Mongoose with custom labels and the ability to hammer the aggregation pipeline into component parts for maximum performance.",
   "main": "index.js",
   "scripts": {
